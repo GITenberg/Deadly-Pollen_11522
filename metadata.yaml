@@ -1,5 +1,8 @@
 _repo: Deadly-Pollen_11522
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 11522-coverpage.jpg
 creator:
   author:
     agent_name: Oliver, Stephen
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '4013'
     url: http://www.gutenberg.org/2009/agents/4013
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11522#Deadly-Pollen
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
